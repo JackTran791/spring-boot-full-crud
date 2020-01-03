@@ -1,8 +1,6 @@
 package org.luv2code.cmr.controller;
 
 
-import lombok.AllArgsConstructor;
-import org.luv2code.cmr.dao.EmployeeDAO;
 import org.luv2code.cmr.entity.Employee;
 import org.luv2code.cmr.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
